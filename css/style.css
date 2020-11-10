@@ -2,8 +2,29 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Lora', serif;
 }
 
 body {
-  background-color: red;
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+  color: lightgreen;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+p:not(#password) {
+  margin: 15px 0;
+}
+
+#password {
+  font-weight: bold;
+  text-decoration:
+
 }
