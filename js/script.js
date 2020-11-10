@@ -11,8 +11,6 @@ var annoCorrente = 2020;
 // console.log(annoCorrente);
 
 var anniStringa = prompt("Quanti anni hai?");
-// console.log(anni);
-
 var anniNumero = parseInt(anniStringa);
 // console.log(anniNumero);
 

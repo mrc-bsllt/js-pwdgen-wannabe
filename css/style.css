@@ -8,7 +8,6 @@
 body {
   margin: 50px;
 }
-
 a {
   text-decoration: none;
   font-style: italic;
@@ -18,13 +17,10 @@ a:hover {
   text-decoration: underline;
   color: red;
 }
-
 p:not(#password) {
   margin: 15px 0;
 }
-
 #password {
   font-weight: bold;
   text-decoration:
-
 }
